@@ -8,9 +8,9 @@ def rectangle_area(w,l):
 
 #TODO: Implement function that returns the area of a cube of side s
 def cube_area(s):
-    return 
+    return s*s*6
 
 
 #TODO: Implement function that returns the area of a circle with radius r
 def circle_area(r):
-    return 
+    return 3.14*r*r
